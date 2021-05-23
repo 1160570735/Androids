@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">安卓新闻</string>
+    <string name="nav_header_subtitle">收看每天最新的安卓资讯</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">新闻首页</string>
+    <string name="menu_gallery">Hello</string>
+    <string name="menu_slideshow">2021年5月23日</string>
+</resources>
